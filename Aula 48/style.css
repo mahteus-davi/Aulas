@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.product {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
